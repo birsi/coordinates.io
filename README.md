@@ -1,3 +1,5 @@
+![coordinates.io screenshot](https://raw.github.com/birsi/coordinates.io/master/screenshot.png)
+
 # [coordinates.io](http://coordinates.io)
 
 coordinates.io is a simple tool which helps you find the coordinates you need in a fast and

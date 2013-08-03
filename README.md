@@ -6,8 +6,8 @@ coordinates.io is a simple tool which helps you find the coordinates you need in
 trivial way. It's super easy to use and gets you the south east and north west coordinates, as well as
 the marker coordinates. Nothing more...
 
-* Homepage: [http://www.coordinates.io](http://coordinates.io)
-* Twitter: [@bdbirsi](http://twitter.com/drbirsi) [@ThomasLichtblau](http://twitter.com/ThomasLichtblau)
+* Website: [http://coordinates.io](http://coordinates.io)
+* Twitter: [@drbirsi](http://twitter.com/drbirsi) [@ThomasLichtblau](http://twitter.com/ThomasLichtblau)
 
 ## Compatibility
 

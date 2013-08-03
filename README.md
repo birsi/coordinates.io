@@ -1,11 +1,16 @@
+![coordinates.io screenshot](https://raw.github.com/birsi/coordinates.io/master/screenshot.png)
+
 # [coordinates.io](http://coordinates.io)
 
 coordinates.io is a simple tool which helps you find the coordinates you need in a fast and
 trivial way. It's super easy to use and gets you the south east and north west coordinates, as well as
 the marker coordinates. Nothing more...
 
-* Homepage: [http://www.coordinates.io](http://coordinates.io)
-* Twitter: [@bdbirsi](http://twitter.com/drbirsi) [@ThomasLichtblau](http://twitter.com/ThomasLichtblau)
+* Development: Michael Birsak [@drbirsi](http://twitter.com/drbirsi)
+* Design: Thomas Lichtblau [@ThomasLichtblau](http://twitter.com/ThomasLichtblau)
+
+* Website: [http://coordinates.io](http://coordinates.io)
+* Repository:  [https://github.com/birsi/coordinates.io/](https://github.com/birsi/coordinates.io/)
 
 ## Compatibility
 

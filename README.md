@@ -7,9 +7,9 @@ trivial way. It's super easy to use and gets you the south east and north west c
 the marker coordinates. Nothing more...
 
 * Development: Michael Birsak [@drbirsi](http://twitter.com/drbirsi) 
-* Design: Thomas Lichtblau [@ThomasLichtblau](http://twitter.com/ThomasLichtblau) 
+* Design: Thomas Lichtblau [@ThomasLichtblau](http://twitter.com/ThomasLichtblau)
  
-* Website: [http://coordinates.io](http://coordinates.io) 
+* Website: [http://coordinates.io](http://coordinates.io)
 * Repository:  [https://github.com/birsi/coordinates.io/](https://github.com/birsi/coordinates.io/) 
 
 ## Compatibility

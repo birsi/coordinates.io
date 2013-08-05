@@ -354,7 +354,7 @@
 
 			var sw = App.rectangle.bounds.getSouthWest(),
 				ne = App.rectangle.bounds.getNorthEast(),
-				rectanglePositionText = sw.lat() + " , " + sw.lng() + " , " + ne.lat() + " , " + ne.lng();
+				rectanglePositionText = sw.lng() + " , " + sw.lat() + " , " + ne.lng() + " , " + ne.lat();
 
 			// Update DOM elements
 			App.elements.$swLat.html(sw.lat());
